@@ -1,4 +1,26 @@
+Sistema Financeiro 💰
 
+Este é um aplicativo de sistema financeiro desenvolvido em React. Ele ajuda os usuários a gerenciar suas finanças, registrando receitas, despesas e fornecendo análises básicas para tomada de decisões financeiras.
+
+Funcionalidades 🛠️
+- Cadastro de Transações: Adicione receitas e despesas.
+- Resumo Financeiro: Veja o saldo total, receitas e despesas do mês.
+- Filtro de Transações: Filtre por data, tipo (receita ou despesa) e categorias.
+- Gráficos Dinâmicos: Visualize as finanças através de gráficos interativos.
+- Interface Responsiva: Funciona bem em desktops e dispositivos móveis.
+
+ Tecnologias Utilizadas 🖥️
+- Frontend:
+ - React.js
+ - React Router (para navegação)
+ - Context API ou Redux (para gerenciamento de estado)
+ - Styled Components ou TailwindCSS (para estilos)
+- Backend (opcional, se integrado):
+ - Node.js com Express
+ - Banco de Dados: PostgreSQL ou MongoDB
+- Bibliotecas Adicionais:
+ - Chart.js (para gráficos)
+ - Axios (para requisições HTTP)
 ## First Steps
 
 `npm install`
